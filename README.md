@@ -7,7 +7,7 @@
 />
 <br></br>
 <br></br>
-<img alt="image" src="https://github.com/user-attachments/assets/0f103cf0-3d96-4002-98e1-5d2e7662ed28"  height="80" width="auto"/>
+<img alt="image" src="https://i.imgur.com/SXnVRD1.png"  height="80" width="auto"/>
 <br></br>
 <p align="left">
   <a href="https://linkedin.com/in/marcosuelfilho" target="blank"
@@ -29,7 +29,7 @@
   /></a>
 </p>
 <br></br>
-<img alt="image" src="https://github.com/user-attachments/assets/5f857267-c6e6-48ea-b3aa-995079f17faa" height="80" width="auto"/>
+<img alt="image" src="https://i.imgur.com/LcukwVS.png" height="80" width="auto"/>
 <br></br>
 <p align="left">
   <a href="https://github.com/lexmarcos/StockShift"
