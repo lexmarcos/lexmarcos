@@ -5,64 +5,19 @@
   height="auto"
   width="1185"
 />
-<br></br>
-<br></br>
-<img alt="image" src="https://i.imgur.com/SXnVRD1.png"  height="80" width="auto"/>
-<br></br>
-<p align="left">
-  <a href="https://linkedin.com/in/marcosuelfilho" target="blank"
-    ><img
-      align="center"
-      src="https://i.imgur.com/QaDAqLJ.png"
-      alt="marcosuelfilho"
-      height="50"
-      width="auto"
-  /></a>&nbsp;
-  &nbsp;&nbsp;
-  <a href="https://medium.com/@lexmarcos" target="blank"
-    ><img
-      align="center"
-      src="https://i.imgur.com/s8KOouF.png"
-      alt="@lexmarcos"
-      height="50"
-      width="auto"
-  /></a>
-</p>
-<br></br>
-<img alt="image" src="https://i.imgur.com/LcukwVS.png" height="80" width="auto"/>
-<br></br>
-<p align="left">
-  <a href="https://github.com/lexmarcos/StockShift"
-    ><img
-      align="center"
-      src="https://i.imgur.com/DBADWd2.png"
-      alt="Stockshift Frontend logo"
-      height="50"
-      width="auto"
-  /></a> &nbsp;&nbsp;
-   <a href="https://github.com/lexmarcos/stockshift-backend" target="blank"
-    ><img
-      align="center"
-      src="https://i.imgur.com/d1v75NZ.png"
-      alt="Stockshift Backend Logo"
-      height="50"
-      width="auto"
-  /></a> &nbsp;&nbsp;
-  <br></br>
-  <a href="https://github.com/lexmarcos/8disc" target="blank"
-    ><img
-      align="center"
-      src="https://i.imgur.com/WwjDnAn.png"
-      alt="8 disc Logo"
-      height="50"
-      width="auto"
-  /></a> &nbsp;&nbsp;
-  <a href="https://github.com/teagucordeiro/diamond-ecommerce" target="blank"
-    ><img
-      align="center"
-      src="https://i.imgur.com/b1aQp5D.png"
-      alt="Diamong Ecommerce Logo"
-      height="50"
-      width="auto"
-  /></a>
-</p>
+## Connect with Me
+
+* [LinkedIn](https://linkedin.com/in/marcosuelfilho)
+* [Medium](https://medium.com/@lexmarcos)
+
+## Featured Projects
+
+### StockShift
+
+* [Frontend Repository](https://github.com/lexmarcos/StockShift)
+* [Backend Repository](https://github.com/lexmarcos/stockshift-backend)
+
+### Other Projects
+
+* [8Disc](https://github.com/lexmarcos/8disc)
+* [Diamond E-commerce](https://github.com/teagucordeiro/diamond-ecommerce)
